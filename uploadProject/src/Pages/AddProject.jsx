@@ -82,7 +82,7 @@ export default function AddProject() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 via-slate-900 to-black p-6">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 via-slate-900 to-black p-3">
       <ToastContainer position="top-center" autoClose={3000} />
       <div className="w-full max-w-3xl bg-white/10 backdrop-blur-xl shadow-2xl rounded-3xl p-8 border border-white/10">
         <h2 className="text-3xl font-bold text-center text-white mb-8">

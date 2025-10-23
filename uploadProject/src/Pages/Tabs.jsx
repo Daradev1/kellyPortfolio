@@ -6,7 +6,7 @@ const Tabs = () => {
   const [activeTab, setActiveTab] = useState("project");
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-[#0d0d0d] via-[#111] to-[#151515] p-6 text-white">
+    <div className="min-h-screen bg-gradient-to-br from-[#0d0d0d] via-[#111] to-[#151515] text-white">
       <div className="flex justify-center space-x-4 mb-8">
         <button
           onClick={() => setActiveTab("project")}
