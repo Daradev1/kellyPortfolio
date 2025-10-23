@@ -205,7 +205,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Kelvin .E.A
+                Kelvin Eitafo Amenawon
               </span>
             </h2>
             
@@ -214,7 +214,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              Hi, I’m kelvin, a designer and developer dedicated to building intuitive, visually refined, 
+              i'm a designer and developer dedicated to building intuitive, visually refined, 
               and user-focused digital experiences. I combine a deep understanding of design principles with frontend 
               development to create interfaces that are both beautiful and functional. My work centers on clarity,
                usability, and thoughtful details that make every interaction feel effortless.
