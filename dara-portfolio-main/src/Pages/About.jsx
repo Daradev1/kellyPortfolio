@@ -214,8 +214,9 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              I’m a UI/UX designer and frontend developer who loves turning ideas into experiences that feel right.
-
+           I'm a designer and developer dedicated to building clean, visually refined, and user-focused interfaces.
+            I combine a deep understanding of design principles with frontend development to create interfaces that are both beautiful and functional.
+            <br />
 Honestly, I didn’t fall into design, I ran toward it, headfirst. No roadmap. Just a spark, a screen, and a hunger to figure it out.
 Figma became my canvas. Tutorials turned into my late-night companions. Every pixel I placed brought me closer to clarity, control, and creative freedom.
 
@@ -282,3 +283,6 @@ I’m still learning, still building, and constantly growing. now on my way to b
 };
 
 export default memo(AboutPage);
+
+
+//  My work centers on clarity, usability, and thoughtful details that make every interaction feel effortless.
