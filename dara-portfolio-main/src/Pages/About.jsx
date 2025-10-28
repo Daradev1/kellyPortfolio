@@ -193,7 +193,7 @@ const AboutPage = () => {
         <div className="flex flex-col-reverse lg:grid lg:grid-cols-2 gap-10 lg:gap-16 items-center">
           <div className="space-y-6 text-center lg:text-left">
             <h2 
-              className="text-xl sm:text-2xl lg:text-5xl font-bold"
+              className="text-xl sm:text-2xl lg:text-4xl font-bold"
               data-aos="fade-right"
               data-aos-duration="1000"
             >
@@ -214,11 +214,14 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              i'm a designer and developer dedicated to building intuitive, visually refined, 
-              and user-focused digital experiences. I combine a deep understanding of design principles with frontend 
-              development to create interfaces that are both beautiful and functional. My work centers on clarity,
-               usability, and thoughtful details that make every interaction feel effortless.
+              I’m a UI/UX designer and frontend developer who loves turning ideas into experiences that feel right.
 
+Honestly, I didn’t fall into design, I ran toward it, headfirst. No roadmap. Just a spark, a screen, and a hunger to figure it out.
+Figma became my canvas. Tutorials turned into my late-night companions. Every pixel I placed brought me closer to clarity, control, and creative freedom.
+
+I design because it makes me feel something. Because a clean interface isn’t just beautiful, it’s powerful. It solves problems, guides users, and speaks without saying a word.
+
+I’m still learning, still building, and constantly growing. now on my way to becoming a full-stack developer.
 
             </p>
 
