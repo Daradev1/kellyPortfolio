@@ -210,20 +210,14 @@ const AboutPage = () => {
             </h2>
             
             <p 
-              className="text-base sm:text-lg lg:text-xl text-gray-400 leading-relaxed text-justify pb-4 sm:pb-0"
+              className="text-base sm:text-lg lg:text-xl text-gray-400  text-justify pb-4 sm:pb-0"
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-           I'm a designer and developer dedicated to building clean, visually refined, and user-focused interfaces.
-            I combine a deep understanding of design principles with frontend development to create interfaces that are both beautiful and functional.
-            <br />
-Honestly, I didn’t fall into design, I ran toward it, headfirst. No roadmap. Just a spark, a screen, and a hunger to figure it out.
-Figma became my canvas. Tutorials turned into my late-night companions. Every pixel I placed brought me closer to clarity, control, and creative freedom.
-
-I design because it makes me feel something. Because a clean interface isn’t just beautiful, it’s powerful. It solves problems, guides users, and speaks without saying a word.
-
-I’m still learning, still building, and constantly growing. now on my way to becoming a full-stack developer.
-
+         I’m a designer and developer focused on crafting clean, refined, and user-centered digital experiences. I believe good design isn’t just about how things look , it’s about how they work and feel. My goal is simple: to create interfaces that are beautiful, 
+         functional, and human. I didn’t stumble into design. I ran toward it. No roadmap, no mentor, just curiosity, a screen, and the drive to figure it out. Figma became my canvas. Tutorials became my late night teachers.
+          Every project taught me something new about clarity, problem-solving, and creative freedom. Over time, 
+          I’ve come to see design as more than visuals. It’s logic and emotion working together, turning complex ideas into clear, meaningful experiences. That balance between design and development is where I thrive. I combine thoughtful design with frontend development to bring ideas to life with purpose and precision. I’m constantly learning, building, and refining my craft , a creator who bridges creativity and technology to make experiences that truly connect.
             </p>
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
